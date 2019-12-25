@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://share.jst98.com/download/jb.ipa</string>
+                    <string>https://share.jst98.com/download/jb.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
